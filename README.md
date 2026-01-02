@@ -1,16 +1,18 @@
-## Hi there 👋
+# Riley James
+**Design Engineer | AI Systems & Infrastructure**
+📍 San Francisco, CA
 
-<!--
-**rlyjms/rlyjms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I build the prototyping infrastructure that turns design intent into drivable experiences.
+> Currently architecting Generative UI systems at Ford Model e.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Agno](https://img.shields.io/badge/-Agno-black?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Figma API](https://img.shields.io/badge/-Figma_Plugin_Dev-black?style=flat-square&logo=figma)
+
+---
